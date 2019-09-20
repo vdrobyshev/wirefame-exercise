@@ -1,0 +1,26 @@
+* {
+
+  outline: 1px dotted red;
+
+}
+#divnav{
+  position: absolute;
+  height: 90px;
+  width: 100%;
+  background-color: rgb(182, 180, 180);
+}
+
+navid{
+  margin-top: 10px;
+}
+#navigation{
+  display: inline;
+}
+.nav{
+  display: inline-block;
+  position: relative;
+  /* margin:9%; */
+  margin-left: 7%;
+  margin-right: 7%;
+  /* top: -30px; */
+}
