@@ -1,26 +1,47 @@
 * {
-
   outline: 1px dotted red;
-
 }
-#divnav{
+
+#divnav {
   position: absolute;
   height: 90px;
   width: 100%;
   background-color: rgb(182, 180, 180);
 }
 
-navid{
+navid {
   margin-top: 10px;
 }
-#navigation{
+
+#navigation {
   display: inline;
 }
-.nav{
+
+.nav {
   display: inline-block;
   position: relative;
-  /* margin:9%; */
+  top: -20px;
   margin-left: 7%;
   margin-right: 7%;
-  /* top: -30px; */
+  
+}
+
+#navid {
+  margin-top: 5px;
+  position: relative;
+  top: 5px;
+}
+
+#secondrow{
+  display: inline-block;
+  position: relative;
+  margin-top: 30px;
+  margin-left: 25%;
+}
+.thirdrow{
+  display: inline-block;
+  position: relative;
+  margin-top: 30px;
+  margin-left: 13%;
+
 }
